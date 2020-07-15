@@ -1,0 +1,30 @@
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (5, 12): Unresolved reference: github
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (6, 12): Unresolved reference: github
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (7, 12): Unresolved reference: github
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (11, 12): Unresolved reference: junit
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (12, 12): Unresolved reference: junit
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (14, 2): Unresolved reference: TestInstance
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (14, 15): Unresolved reference: TestInstance
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (15, 2): Unresolved reference: DisplayName
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (20, 6): Unresolved reference: BeforeAll
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (24, 9): Unresolved reference: FuelManager
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (27, 6): Unresolved reference: AfterAll
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (33, 6): Unresolved reference: Test
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (36, 45): Unresolved reference: httpGet
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (38, 9): Unresolved reference: assertEquals
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (41, 6): Unresolved reference: Test
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (43, 46): Unresolved reference: httpGet
+e: /home/rahul/git/javalin/training/src/main/kotlin/com/first/person/PersonIntegrationTest.kt: (46, 9): Unresolved reference: assertEquals
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':compileKotlin'.
+> Compilation error. See log for more details
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 10s
